@@ -1,5 +1,8 @@
 _repo: Maxims-and-Instructions-for-the-Boiler-Room-Useful-to-Engineers-Firemen-Mechanics-Relating-to__53139
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53139-h/images/cover.jpg
 creator:
   author:
     agent_name: Hawkins, N. (Nehemiah)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '39434'
     url: http://www.gutenberg.org/2009/agents/39434
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53139#Maxims-and-Instructions-for-the-Boiler-Room-Useful-to-Engineers-Firemen-Mechanics-Relating-to_
 gutenberg_issued: '2016-09-24'
 gutenberg_type: Text
 identifiers:
