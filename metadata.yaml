@@ -1,0 +1,30 @@
+_repo: Maxims-and-Instructions-for-the-Boiler-Room-Useful-to-Engineers-Firemen-Mechanics-Relating-to__53139
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hawkins, N. (Nehemiah)
+    aliases:
+    - Hawkins, Nehemiah
+    - Rogers, William
+    birthdate: 1833
+    deathdate: 1928
+    gutenberg_agent_id: '39434'
+    url: http://www.gutenberg.org/2009/agents/39434
+description: ''
+gutenberg_issued: '2016-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53139'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Steam-boilers -- Handbooks, manuals, etc.'
+- !lcc 'TJ'
+- GITenberg
+title: 'Maxims and Instructions for the Boiler Room
+
+  Useful to Engineers, Firemen & Mechanics; Relating to Steam Generators, Pumps, Appliances,
+  Steam Heating, Practical Plumbing, etc.'
+url: http://www.gutenberg.org/ebooks/53139
